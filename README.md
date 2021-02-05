@@ -1,5 +1,8 @@
-# ENCODE-DECODE
+# ENCODE-DECODE ![photo6118223399424732441](https://user-images.githubusercontent.com/78611316/107069019-5aa8be00-6807-11eb-89ff-850cbab6e484.jpg)
+
 Secure your Information by Encoding the messages
+
+## Project Screen
 
 ## Message Encode-Decode
 Message encoding and decoding is the process to first convert the original text to the random and meaningless text called ciphertext. This process is called encoding. Decoding is the process to convert that ciphertext to the original text. This process is also called the Encryption-Decryption process.
