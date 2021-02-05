@@ -1,4 +1,4 @@
-# ENCODE-DECODE ![photo6118223399424732441](https://user-images.githubusercontent.com/78611316/107069019-5aa8be00-6807-11eb-89ff-850cbab6e484.jpg)
+# ENCODE-DECODE ![wp2](https://user-images.githubusercontent.com/78611316/107070533-7dd46d00-6809-11eb-91d7-ed9cfb08e87e.jpg)
 
 Secure your Information by Encoding the messages
 
